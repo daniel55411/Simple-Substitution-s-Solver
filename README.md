@@ -3,9 +3,12 @@ Substitution Cipher Hacker
 Usage:
 	python main.py [options] [--in input-file] [--out output-file]
 
+
 If there are no options, --in or --out, program will work with standard stream
+
 For more help use command:
 	python main.py -h
+	
 
 Structure of project:
 	- cipher - folder contains main algo to decrypt or encrypt message
